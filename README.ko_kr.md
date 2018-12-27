@@ -2,9 +2,12 @@
 [![NASA][1]][2]
 
 :crossed_flags:
+[Bahasa Indonesia][ID],
+[Deutsch][DE],
 [English][EN],
 [Español][ES],
 [Français][FR],
+[Italiano][IT],
 [Português][PT_BR],
 [正體中文][ZH_TW],
 [简体中文][ZH_CN],
@@ -12,8 +15,11 @@
 [हिंदी][HI_IN]
 
 
+[ID]:README.id.md
+[DE]:README.de.md
 [EN]:README.md
 [ES]:README.es.md
+[IT]:README.it.md
 [FR]:README.fr.md
 [PT_BR]:README.pt_br.md
 [ZH_TW]:README.zh_tw.md
@@ -71,4 +77,3 @@ Ralph R. Ragan     | 부감독<br>기계 연구소 | 1969년 3월 28일
 [6]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
 [7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.md
 [8]:https://github.com/rburkey2005/virtualagc
-
